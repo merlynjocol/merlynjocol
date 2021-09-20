@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+; I+am+Merlyn+Hurtado)](https://git.io/typing-svg)
