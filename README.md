@@ -26,6 +26,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/merlynjocol/" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Instagram_black.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-/></a>
+</p>
 
 
