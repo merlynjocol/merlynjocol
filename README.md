@@ -16,6 +16,17 @@
 - 💬 Ask me about data storytelling and F.A.I.R data
 - 🥇 Best Master Thesis 2020 [Award University, Knowledge and Agenda 2030](https://www.fundacioncarolina.es/acceso-a-las-tecnologias-digitales-para-mujeres-indigenas-rurales-barreras-catalizadores-y-suenos/) 
 
+
+###  Lenguages & Tools 
+
+Python SQL 
+Jupyter JupyterLab 
+VisualCode Editor Git
+Google Colab  Deepnote
+Pandas Geopandas Plotly
+Streamlit
+
+
 ###  Contact me
   
 <!-- Social icons section -->
