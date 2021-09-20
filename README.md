@@ -18,7 +18,8 @@
 
 
 ####  Lenguages 
-- Python SQL 
+  ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+  ![](https://img.shields.io/badge/SQl-3776AB?logo=python&logoColor=white&style=flat)
 
 #### Libraries 
 - Pandas, Geopandas, Plotly, Streamlit
