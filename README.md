@@ -12,8 +12,9 @@
 
 - 🔭 I’m currently working on digital technologies in agriculture 
 - 🌱 I’m currently learning Modelling of enviroment variables
-- 👯 I’m looking to collaborate on crowdsourcng, data analsis and digital transformation
+- 👯 I’m looking to collaborate on data crowdsourcing, data analysis and digital transformation
 - 💬 Ask me about data storytelling and F.A.I.R data
+- 🥇 Best Master Thesis 2020 [Award University, Knowledge and Agenda 2030](https://www.fundacioncarolina.es/acceso-a-las-tecnologias-digitales-para-mujeres-indigenas-rurales-barreras-catalizadores-y-suenos/) 
 
 ###  Contact me
   
