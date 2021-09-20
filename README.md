@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+; I+am+Merlyn+Hurtado)](https://git.io/typing-svg)
-
-
 <h3 align="center">
   Welcome to Merlyn Hurtado's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
