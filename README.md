@@ -21,10 +21,10 @@
 - Python SQL 
 
 #### Libraries 
-- Pandas, Geopandas, Plotly, Streamlit**
+- Pandas, Geopandas, Plotly, Streamlit
 
 #### Tools
--Jupyter, JupyterLab, VisualCode Editor, Git, Google Colab, Deepnote
+- Jupyter, JupyterLab, VisualCode Editor, Git, Google Colab, Deepnote
 
 ###  Contact me
   
