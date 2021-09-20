@@ -17,15 +17,14 @@
 - 🥇 Best Master Thesis 2020 [Award University, Knowledge and Agenda 2030](https://www.fundacioncarolina.es/acceso-a-las-tecnologias-digitales-para-mujeres-indigenas-rurales-barreras-catalizadores-y-suenos/) 
 
 
-###  Lenguages & Tools 
+####  Lenguages 
+- Python SQL 
 
-Python SQL 
-Jupyter JupyterLab 
-VisualCode Editor Git
-Google Colab  Deepnote
-Pandas Geopandas Plotly
-Streamlit
+#### Libraries 
+- Pandas, Geopandas, Plotly, Streamlit**
 
+#### Tools
+-Jupyter, JupyterLab, VisualCode Editor, Git, Google Colab, Deepnote
 
 ###  Contact me
   
