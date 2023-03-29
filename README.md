@@ -7,7 +7,7 @@
  
 </h2>
 
-### Agriculture Engineer | Master in Technologies and Strategies for Development | Master in Digital Sciences | GIS specialist
+### Agriculture Engineer | Msc Technologies and Strategies for Development | Msc Digital Sciences | GIS specialist
 
   - :heart: I love to do text analysis, create indicators, monitor variables and design data-driven innovations to empower people
   - :rocket: I am part of the [Challenge Hub](https://master.cri-paris.org/en/challenge-hub) and [EllesTech](https://twitter.com/elles_tech) at [CRI](https://www.cri-paris.org/en)
