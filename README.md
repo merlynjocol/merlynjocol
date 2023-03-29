@@ -3,29 +3,25 @@
 -->
 
 <h2 align="left">
-  Welcome to Merlyn Hurtado's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hello, I am  Merlyn J. Hurtado! :wave:
+ 
 </h2>
 
+### Agriculture Engineer | Master in Technologies and Strategies for Development | Master in Digital Sciences | GIS specialist
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F12D57EE&vCenter=true&lines=Data+analyst+%7C;10%2B+years+Monitoring+%26+Evaluation;Always+learning+new+things+)](https://git.io/typing-svg)
+  - :heart: I love to do text analysis, create indicators, monitor variables and design data-driven innovations to empower people
+  - :rocket: I am part of the [Challenge Hub](https://master.cri-paris.org/en/challenge-hub) and [EllesTech](https://twitter.com/elles_tech) at [CRI](https://www.cri-paris.org/en)
+  - 🔭 I am the creator of the Citizen Science project [WOMER](https://womer.webflow.io/) to help indigenous women to measure the gender dimension in climate change 
+  - :speech_balloon:  Ask me about Technology4Development, co-creation, Social innovations, gender mainstreaming, citizen science and sustainable development
+  - 🥇 Best Master Thesis 2020 [Award University, Knowledge and Agenda 2030](https://www.fundacioncarolina.es/acceso-a-las-tecnologias-digitales-para-mujeres-indigenas-rurales-barreras-catalizadores-y-suenos/) 
+  - :pushpin: *"Fall in love with the problem, not with your solution"*
 
-- 🔭 I’m currently working on digital technologies in agriculture 
-- 🌱 I’m currently learning Modelling of enviroment variables
-- 👯 I’m looking to collaborate on data crowdsourcing, data analysis and digital transformation
-- 💬 Ask me about data storytelling and F.A.I.R data
-- 🥇 Best Master Thesis 2020 [Award University, Knowledge and Agenda 2030](https://www.fundacioncarolina.es/acceso-a-las-tecnologias-digitales-para-mujeres-indigenas-rurales-barreras-catalizadores-y-suenos/) 
+  
 
-
-####  Lenguages 
+#### :computer: Languages 
   ![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
   ![](https://img.shields.io/badge/SQl-3776AB?logo=python&logoColor=white&style=flat)
 
-#### Libraries 
-- Pandas, Geopandas, Plotly, Streamlit
-
-#### Tools
-- Jupyter, JupyterLab, VisualCode Editor, Git, Google Colab, Deepnote
 
 ###  Contact me
   
