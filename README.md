@@ -3,14 +3,13 @@
 -->
 
 <h2 align="left">
-  Hello, I am  Merlyn J. Hurtado! :wave:
+  Welcome to Merlyn J. Hurtado Github repository! :wave:
  
 </h2>
 
-### Agriculture Engineer | Msc Technologies and Strategies for Development | Msc Digital Sciences | GIS specialist
+#### | Agriculture Engineer | Msc Technologies and Strategies for Development | Msc Digital Sciences | GIS specialist |
 
   - :heart: I love to do text analysis, create indicators, monitor variables and design data-driven innovations to empower people
-  - :rocket: I am part of the [Challenge Hub](https://master.cri-paris.org/en/challenge-hub) and [EllesTech](https://twitter.com/elles_tech) at [CRI](https://www.cri-paris.org/en)
   - 🔭 I am the creator of the Citizen Science project [WOMER](https://womer.webflow.io/) to help indigenous women to measure the gender dimension in climate change 
   - :speech_balloon:  Ask me about Technology4Development, co-creation, Social innovations, gender mainstreaming, citizen science and sustainable development
   - 🥇 Best Master Thesis 2020 [Award University, Knowledge and Agenda 2030](https://www.fundacioncarolina.es/acceso-a-las-tecnologias-digitales-para-mujeres-indigenas-rurales-barreras-catalizadores-y-suenos/) 
